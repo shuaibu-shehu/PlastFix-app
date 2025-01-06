@@ -1,3 +1,6 @@
 [submodule "PlastFix"]
 	path = PlastFix
 	url = https://github.com/shuaibu-shehu/PlastFix.git
+[submodule "PlastFix-fastapi"]
+	path = PlastFix-fastapi
+	url = https://github.com/shuaibu-shehu/PlastFix-fastapi.git
